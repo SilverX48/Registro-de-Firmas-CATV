@@ -1,0 +1,48 @@
+header{
+    background-image: url('../img/tres-valles.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:auto;
+}
+
+.usuario{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-radius: 100px;
+    border-width: 5px;
+    border-color:green;
+}
+
+.btn{
+    margin: 10px 10px;
+    padding: 20px 4rem;
+    background-color: green;
+    color: white;
+    border-radius: 100px;
+    font-size: larger;
+}
+
+.btn:hover{
+    background-color: chartreuse;
+}
+
+input:hover{
+    border-color: forestgreen;
+}
+
+h1{
+    font-size:3rem;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+.MuiSvgIcon-root.success{
+    background-color: green;
+    color: white;
+    border-radius: 100px;
+    height: 50px !important;
+    width: 50px !important;
+}
